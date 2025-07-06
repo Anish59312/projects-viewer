@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "id": "2",
+      "name": "DB connection demo js",
+      "description": "MongoDB connection file for use in other project",
+      "hostedLink": "",
+      "githubLink": "https://github.com/Anish59312/db-connection-demo",
+      "tags": ["js", "node", "mongodb", "nosql", "db connection", "boilerplate"]
+    },
+    {
+      "id": "3",
+      "name": "SSR in next js for static and dynamic routes",
+      "description": "Demo of server side rendering in Next.js framework",
+      "hostedLink": "https://vercel-blogger-ssr.vercel.app/",
+      "githubLink": "https://github.com/Anish59312/blog-demo-nextjs",
+      "tags": ["ssr", "server-side-rendering", "nextjs"]
+    },
+    {
+      "id": "4",
+      "name": "Git Gh and Vercel commands",
+      "description": "git command demos for version management, gh for github repository creation and vercel for deployment",
+      "hostedLink": "",
+      "githubLink": "https://github.com/Anish59312/git-gh-vercel-commands",
+      "tags": ["git", "github", "version control"]
+    },
+    {
+      "id": "5",
+      "name": "Redux-Toolkit in nextjs",
+      "description": "demo of using redux tool kit for global state management",
+      "hostedLink": "https://redux-toolkit-react-eight.vercel.app/",
+      "githubLink": "https://github.com/Anish59312/reduxToolkitReact.git",
+      "tags": ["redux", "redux toolkit", "nextjs", "state management"]
+    },
+    {
+      "id": "6",
+      "name": "Authentication boilerplace nextjs",
+      "description": "boilerplate code of nextjs authentication using mongdb and mailer service",
+      "hostedLink": "",
+      "githubLink": "https://github.com/Anish59312/authentication_demo_nextjs",
+      "tags": ["authentication", "nextjs", "boilerplate"]
+    }
+  ]
+}
