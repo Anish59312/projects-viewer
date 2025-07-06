@@ -113,7 +113,7 @@ export default function ProjectShowcase() {
                         {tag}
                       </Badge>
                     ))}
-                    {project.tags.length > 3 && (
+                    {project.tags.length > 2 && (
                       <Badge variant="outline" className="text-xs">
                         +{project.tags.length - 2}
                       </Badge>
