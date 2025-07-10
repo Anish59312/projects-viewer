@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "id": "1",
+      "name": "Rate limiter demo in .NET WebAPP",
+      "description": "Static, Sliding window, and Token Bucket approach",
+      "hostedLink": "",
+      "githubLink": "https://github.com/Anish59312/rateLimiterDotNet",
+      "tags": [".NET", "WebAPI", "rateLimit", "largescale"]
+    },
+    {
       "id": "2",
       "name": "DB connection demo js",
       "description": "MongoDB connection file for use in other project",
